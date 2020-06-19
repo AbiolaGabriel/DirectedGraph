@@ -1,0 +1,16 @@
+S a b c d e f g t
+S b 3
+S a 4
+S d 7
+a c 1
+b S 3
+b d 4
+c e 1
+c d 3
+d e 1
+d t 3
+d f 5
+e g 2
+e t 4
+g e 2
+t f 5
